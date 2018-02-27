@@ -1,12 +1,12 @@
 {
     "mobiles": [{
 
-        "_id": "5an76b7618c649c32dcc54689",
+        "_id": "5an76b7618c649c32dcc54602",
         "productid": "",
         "name": "Mi Note 4",
         "imgUrl":"https://www.91-img.com/pictures/xiaomi-mi-a1-mobile-phone-large-1.jpg",
         "shortdescription": ["4gb", "64gb" ,"8core"],
-        "stock": "",
+        "stock": "10",
         "status": "",
         "category": "",
         "subcategory": "",
@@ -61,7 +61,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54601",
         "productid": "",
         "name": "Samsung S8",
         "shortdescription": ["2gb", "61gb" ,"4core"],
@@ -121,7 +121,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54603",
         "productid": "",
         "name": "Iphone 6s",
         "shortdescription":["8gb", "32gb" ,"16core"],
@@ -181,7 +181,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54604",
         "productid": "Mi 3",
         "name": "",
         "shortdescription": ["4gb", "64gb" ,"retina-display"],
@@ -241,7 +241,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54605",
         "productid": "Iphone X",
         "name": "",
         "shortdescription": ["12gb", "32gb" ,"gorilla glass"],
@@ -301,7 +301,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54606",
         "productid": "Samsung Note 8",
         "name": "",
         "shortdescription": ["4gb", "64gb" ,"8core"],
@@ -361,7 +361,7 @@
             }]
         }]
     }, {
-        "_id": "5a76b7618c649c32dcc54689",
+        "_id": "5a76b7618c649c32dcc54607",
         "productid": "Mi 4",
         "name": "",
         "shortdescription": ["2gb", "128gb" ,"4core"],
