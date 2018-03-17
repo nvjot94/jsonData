@@ -183,7 +183,7 @@
     }, {
         "_id": "5a76b7618c649c32dcc54604",
         "productid": "Mi 3",
-        "name": "",
+        "name": "Mi 3",
         "shortdescription": ["4gb", "64gb" ,"retina-display"],
         "imgUrl":"https://www.91-img.com/pictures/xiaomi-mi-a1-mobile-phone-large-1.jpg",
         "stock": "23",
@@ -243,7 +243,7 @@
     }, {
         "_id": "5a76b7618c649c32dcc54605",
         "productid": "Iphone X",
-        "name": "",
+        "name": "lenovo 3",
         "shortdescription": ["12gb", "32gb" ,"gorilla glass"],
         "imgUrl":"https://www.91-img.com/pictures/xiaomi-mi-a1-mobile-phone-large-1.jpg",
         "stock": "33",
@@ -303,7 +303,7 @@
     }, {
         "_id": "5a76b7618c649c32dcc54606",
         "productid": "Samsung Note 8",
-        "name": "",
+        "name": "iphone 4",
         "shortdescription": ["4gb", "64gb" ,"8core"],
         "imgUrl":"https://www.91-img.com/pictures/xiaomi-mi-a1-mobile-phone-large-1.jpg",
         "stock": "0",
@@ -363,7 +363,7 @@
     }, {
         "_id": "5a76b7618c649c32dcc54607",
         "productid": "Mi 4",
-        "name": "",
+        "name": "oppo a7",
         "shortdescription": ["2gb", "128gb" ,"4core"],
         "imgUrl":"https://www.91-img.com/pictures/xiaomi-mi-a1-mobile-phone-large-1.jpg",
         "stock": "",
