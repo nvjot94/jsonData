@@ -162,22 +162,22 @@
         {
             "name": "Footwear",
             "subcategories": [{
-                    "name": "men",
+                    "name": "sports",
                     "imageurl": "http://bata.in/blog/wp-content/uploads/2017/04/Collage-boat.jpg",
                     "brands": ["Nike", "Adidas", "Reebok"]
                 },
                 {
-                    "name": "women",
+                    "name": "casual",
                     "imageurl": "http://www.celebritystyleweddings.com/wp-content/uploads/2014/04/Neon-Pink-Patent-Leather-Sandal-800x600.png",
                     "brands": ["Nike", "Adidas", "Reebok"]
                 },
                 {
-                    "name": "children",
+                    "name": "formal",
                     "imageurl": "http://uttarakhandbazaar.com/ShopImage/babashoes1.jpg",
                     "brands": ["Puma", "Lotto", "Fila"]
                 },
                 {
-                    "name": "latest",
+                    "name": "sandals",
                     "imageurl": "http://2.bp.blogspot.com/-OT-CMwuua5w/UG1jLxNaYKI/AAAAAAAAAJU/THykdQ5SRkE/s1600/footwear_report-2.jpg",
                     "brands": ["Woodland", "Puma", "Nike"]
                 }
