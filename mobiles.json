@@ -1,5 +1,5 @@
 {
-    "Laptops": [{
+    "mobiles": [{
 
         "_id": "5an76b7618c649c32dcc54602",
         "productid": "",
@@ -420,5 +420,511 @@
                 "description": ""
             }]
         }]
-    }]
+    }],
+    "Laptops": [
+        {
+            "_id": "5an76b7618c649c32dcc54602",
+            "productid": "",
+            "name": "Dell Inspiron APU",
+            "imgUrl": "https://rukminim1.flixcart.com/image/704/704/j52rrm80/computer/a/h/n/dell-inspiron-3567-notebook-original-imaetu5ch98vzge5.jpeg?q=70",
+            "shortdescription": [
+                "6gb",
+                "1tb",
+                "4core"
+            ],
+            "stock": "10",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "28990",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This high-end laptop features an 5th Gen Intel processor for fast performance, a 38.89 cm BrightView Full HD screen.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54601",
+            "productid": "",
+            "name": "HP 15 Core i5 8th Gen",
+            "shortdescription": [
+                "8gb",
+                "1tb",
+                "4core"
+            ],
+            "imgUrl": "https://rukminim1.flixcart.com/image/704/704/jbzedu80/computer/g/m/x/hp-na-laptop-original-imaff7augnvgmznw.jpeg?q=70",
+            "stock": "5",
+            "status": "",
+            "category": "",
+            "subcategory": "Laptops",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "38990",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This high-end laptop features an 8th Gen Intel processor for fast performance, a 39.62 cm (15.6) BrightView Full HD screen.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54603",
+            "productid": "",
+            "name": "Lenovo-Laptop",
+            "shortdescription": [
+                "8gb",
+                "1tb",
+                "2core"
+            ],
+            "imgUrl": "https://5.imimg.com/data5/AT/QO/MY-23099879/lenovo-laptop-500x500.png",
+            "stock": "10",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "25000",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This laptop is having corei5 processor for fast performance, 64bit Windows 10 operating System.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54604",
+            "productid": "",
+            "name": "Acer Aspire 3 Celeron Dual Core",
+            "shortdescription": [
+                "2gb",
+                "500gb",
+                "2core"
+            ],
+            "imgUrl": "https://rukminim1.flixcart.com/image/704/704/j7xngy80/computer/y/z/g/acer-na-laptop-original-imaey292dny45qdn.jpeg?q=70",
+            "stock": "18",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "30990",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This laptop is having Linux operating System,with 2GB RAM and battery backup is upto 6 hours.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54605",
+            "productid": "",
+            "name": "Asus - Laptop X441NA-GA015T de 14",
+            "shortdescription": [
+                "4gb",
+                "700gb",
+                "VGA"
+            ],
+            "imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000207400_sa.jpg",
+            "stock": "35",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "28000",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This laptop is having Windoes 10 operating System,with 4GB RAM and battery backup is upto 6 hours.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606",
+            "productid": "",
+            "name": "Dell-Laptop",
+            "shortdescription": [
+                "4gb",
+                "1tb",
+                "4core"
+            ],
+            "imgUrl": "https://5.imimg.com/data5/OJ/JB/MY-43113519/dell-laptop-500x500.jpg",
+            "stock": "0",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "32000",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "This laptop is having corei5 processor for fast performance, 64bit Windows 10 operating System",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
