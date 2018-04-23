@@ -3948,5 +3948,2035 @@
                 }
             ]
         }
+    ],"suv": [
+        {
+            "_id": "5an76b7618c649c32dcc542w2602",
+            "productid": "",
+            "name": "Tata Nexon",
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Tata/Tata-Nexon/047.jpg",
+            "shortdescription": [
+                "Cargo volume- 350 L",
+                "Fuel tank capacity- 44 L",
+                "Dimensions- 3",
+                " 994 mm L x 1",
+                "811 mm W x 1",
+                "607 mm H"
+            ],
+            "stock": "10",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "5.99 - 9.62 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Tata Nexon price starts at Rs. 5.99 lakhs* (ex-showroom Delhi). It flaunts a host of segment firsts and fascinating features.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32232dcc54601",
+            "productid": "",
+            "name": "Hyundai Creta",
+            "shortdescription": [
+                "Cargo volume- 400 L",
+                "Fuel tank capacity- 55 L",
+                "Dimension- 4,270 mm L x 1,780 mm W x 1,630 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Hyundai/Hyundai-Creta/Red-Passion-Dual-Tone.jpg",
+            "stock": "5",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "9.29 - 14.6 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Hyundai Creta price starts at Rs. 9.29 lakhs*. It flaunts a host of segment firsts and fascinating features.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32d323cc54601",
+            "productid": "",
+            "name": "Maruti Vitara Brezza",
+            "shortdescription": [
+                "Cargo volume- 450 L",
+                "Fuel tank capacity- 50 L",
+                "Dimension- 4,300 mm L x 1,520 mm W x 1,430 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Maruti/Maruti-Vitara-Brezza/4768/Cerulean-Blue-With-Pearl-Arctic-White_005197.jpg",
+            "stock": "7",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "7.33 - 9.98 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Maruti Vitara Brezza is the bestselling sub-4m SUV in the country, with monthly sales of about 11,000 units. It is available in six variants: LDI, LDI(O), VDI, VDI(O)",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc32354601",
+            "productid": "",
+            "name": "Jeep Compass",
+            "shortdescription": [
+                "Cargo volume- 490 L",
+                "Fuel tank capacity- 60 L",
+                "Dimension- 4,900 mm L x 1,620 mm W x 1,330 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Jeep/Jeep-Compass/5560/Jeep_Compass_Hydro-Blue_35599d.jpg",
+            "stock": "7",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "15.2 - 21.96 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Jeep Compass is available in three variants – Sport, Longitude and Limited. Prices of the Compass start from Rs 15.16 lakh for the base Sport variant and goes up to Rs 21.91 lakh",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc5433601",
+            "productid": "",
+            "name": "Hyundai Creta",
+            "shortdescription": [
+                "Cargo volume- 500 L",
+                "Fuel tank capacity- 60 L",
+                "Dimension- 4,900 mm L x 1,620 mm W x 1,330 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Hyundai/Hyundai-Creta/Red-Passion-Dual-Tone.jpg",
+            "stock": "4",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "9.29 - 14.6 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Hyundai will launch the Creta facelift in India in 2018. Despite the design still looking fresh, the Korean carmaker has decided to update the SUV",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc546301",
+            "productid": "",
+            "name": "Toyota Innova Crysta",
+            "shortdescription": [
+                "Cargo volume- 580 L",
+                "Fuel tank capacity- 60 L",
+                "Dimension- 5,600 mm L x 1,690 mm W x 1,590 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Toyota/Toyota-Innova-Crysta/047.jpg",
+            "stock": "4",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "13.53 - 22.42 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Toyota will launch the Innova Crysta in India in 2018. Despite the design still looking fresh, the Korean carmaker has decided to update the SUV",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sedan": [
+        {
+            "_id": "5a76b7618c649c32dcc54604",
+            "productid": "",
+            "name": "Hyundai Verna",
+            "shortdescription": [
+                "Cargo volume- 400 L",
+                "Fuel tank capacity- 55 L",
+                "Dimension- 4,270 mm L x 1,780 mm W x 1,630 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Hyundai/Hyundai-Verna/047.jpg",
+            "stock": "5",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "7.8 - 12.95 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Hyundai Verna is available in four variants: E, EX, SX and SX(O). E is the base variant.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc546d03",
+            "productid": "",
+            "name": "Maruti Suzuki Dzire",
+            "shortdescription": [
+                "Cargo volume- 378 L",
+                "Fuel tank capacity- 37 L",
+                "Dimensions: 3,995 mm L x 1,735 mm W x 1,515 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Maruti/Maruti-Swift-Dzire/047.jpg",
+            "stock": "2",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "5.56 - 9.43 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Maruti Suzuki Dzire car price in India starts at Rs. 6.04 Lakh. Explore Dzire specifications, features, images, mileage & color options",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54d603",
+            "productid": "",
+            "name": "Volkswagen Ameo",
+            "shortdescription": [
+                "Cargo volume- 378 L",
+                "Fuel tank capacity- 37 L",
+                "Dimensions: 3,995 mm L x 1,735 mm W x 1,515 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Volkswagen/Volkswagen-Ameo/047.jpg",
+            "stock": "3",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "5.5 - 10.0 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Volkswagen bosses are contemplating bringing a new variant of the Ameo which will feature the engine and transmission combo of the Polo GT TSI. ",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc5d4603",
+            "productid": "",
+            "name": "Honda City",
+            "shortdescription": [
+                "Cargo volume- 500 L",
+                "Fuel tank capacity- 50 L",
+                "Dimensions: 3,995 mm L x 1,735 mm W x 1,515 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Honda/Honda-City/5630/MODERN-STEEL-Metallic_6b6a70.jpg",
+            "stock": "8",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "8.71 - 13.82 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Prices of the Honda City start from Rs 8.71 lakh and goes up to Rs 13.70 lakh for petrol while the diesel version is priced between Rs 10.99 lakh and Rs 13.77 lakh",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc5d4603",
+            "productid": "",
+            "name": "Tata Tigor",
+            "shortdescription": [
+                "Cargo volume- 419 L L",
+                "Fuel tank capacity- 35 L",
+                "Dimensions: 3,992 mm L x 1,677 mm W x 1,537 mm"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Tata/Tata-Tigor/5622/047.jpg",
+            "stock": "8",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "4.84 - 7.19 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Tata Motors has launched the Tigor AMT in two variants, XTA and XZA. The XTA is a base automatic variant priced at Rs 5.75 lakh",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dccd54603",
+            "productid": "",
+            "name": "Honda Amaze",
+            "shortdescription": [
+                "Cargo volume- 400 L",
+                "Fuel tank capacity- 35 L",
+                "Dimensions: 3,990 mm L x 1,680 mm W x 1,505 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Honda/Honda-Amaze/4990/ALABASTER-SILVER--METALLIC_7b8188.jpg",
+            "stock": "9",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "5.58 - 8.5 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The carmaker announced that it will launch the sub-4 metre sedan in FY 2018-19. The 2018 Amaze borrows design cues from the tenth-gen",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "small": [
+        {
+            "_id": "5a76b7618c649c32dcc5dd460dw5",
+            "productid": "",
+            "name": "Tata Nano",
+            "shortdescription": [
+                "Curb weight- 695 to 765 kg",
+                "Fuel tank capacity- 24 L",
+                "Dimensions- 3,099-3,164 mm L x 1,495 mm W x 1,652 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Tata/Tata-Nano/4080/Sangria-Red.jpg",
+            "stock": "35",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "2.36 - 3.35 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Tata Nano’s prices in India starts at Rs 2.26 lakh - Rs 3.20 lakh.This car in India is available in five variants - XE, XM, XMA, XT and XTA",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54dwd606",
+            "productid": "",
+            "name": "Datsun redi-GO",
+            "shortdescription": [
+                "Cargo volum- 222 L",
+                "Fuel tank capacity- 28 L",
+                "Dimensions- 3,429 mm L x 1,560 mm W x 1,541 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Datsun/Datsun-RediGO/4035/047.jpg",
+            "stock": "20",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "2.5 - 4.06 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Datsun redi-GO is priced between Rs 2.49 lakh and Rs 3.95 lakh (ex-showroom, pan India). It is available in five variants – D, A, T, T (O) and S",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32ddwcc54606",
+            "productid": "",
+            "name": "Renault KWID",
+            "shortdescription": [
+                "Cargo volum- 222 L",
+                "Fuel tank capacity- 28 L",
+                "Dimensions- 5,429 mm L x 1,570 mm W x 1,231 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Renault/Renault-KWID/4318/047.jpg",
+            "stock": "10",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": " 2.67 - 4.59 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "The Renault Kwid prices range between Rs 2.61 lakh-3.83 lakh for the 800cc versions and Rs 3.58-4.94 lakh for the 1.0-litre versions",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606",
+            "productid": "",
+            "name": "Maruti Suzuki Alto 800",
+            "shortdescription": [
+                "Cargo volum- 222 L",
+                "Fuel tank capacity- 28 L",
+                "Dimensions- 5,429 mm L x 1,570 mm W x 1,231 mm H"
+            ],
+            "imgUrl": "https://imgd.aeplcdn.com/310x174/cw/ec/23445/Maruti-Suzuki-Alto-800-Right-Front-Three-Quarter-72869.jpg?v=201711021421&q=85",
+            "stock": "15",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "2.66 Lakhs",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Maruti Suzuki Alto 800 price starts at ₹ 2.66 Lakhs and goes upto ₹ 3.92 Lakhs. Petrol Alto 800 price starts at ₹ 2.66 Lakhs. CNG Alto 800 price starts at ₹ 3.86 Lakhs",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606",
+            "productid": "",
+            "name": "Maruti Suzuki Omni",
+            "shortdescription": [
+                "Cargo volum- 200 L",
+                "Fuel tank capacity- 20 L",
+                "Dimensions- 3,529 mm L x 1,420 mm W x 1,541 mm H"
+            ],
+            "imgUrl": "https://imgd.aeplcdn.com/310x174/ec/9f/C9/10723/img/m/Maruti-Suzuki-Omni-Right-Front-Three-Quarter-48395_ol.jpg?v=201711021421&q=85",
+            "stock": "18",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "2.89 Lakhs",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Maruti Suzuki Omni price starts at ₹ 2.89 Lakhs and goes upto ₹ 2.9 Lakhs. Petrol Omni price starts at ₹ 2.89 Lakhs.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606",
+            "productid": "",
+            "name": "Hyundai Eon",
+            "shortdescription": [
+                "Cargo volum- 280 L",
+                "Fuel tank capacity- 40 L",
+                "Dimensions- 3,629 mm L x 1,560 mm W x 1,551 mm H"
+            ],
+            "imgUrl": "https://imgd.aeplcdn.com/310x174/cw/ec/9692/Hyundai-Eon-Right-Front-Three-Quarter-94097.jpg?v=201711021421&q=85",
+            "stock": "18",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "3.32 Lakhs",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Hyundai Eon price starts at ₹ 3.32 Lakhs and goes upto ₹ 4.66 Lakhs. Petrol Eon price starts at ₹ 3.32 Lakhs.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "luxury": [
+        {
+            "_id": "5a76b7618c649c32dccdd54607",
+            "productid": "",
+            "name": "Land Rover Discovery Sport",
+            "shortdescription": [
+                "Cargo volum- 194 L",
+                "Fuel tank capacity- 54 to 65 L",
+                "Dimensions- 4,600 mm L x 2,069 mm W x 1,690 mm H"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Land-Rover/Land-Rover-Discovery-Sport/047.jpg",
+            "stock": "5",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "42.48 - 57.46 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Land Rover has added WiFi hotspot and Pro Services to its most affordable offering, the Discovery Sport.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606dd",
+            "productid": "",
+            "name": "BMW 3 Series 320d Luxury Line",
+            "shortdescription": [
+                "Curb weight- 1,505 kg",
+                "Fuel tank capacity- 57 L",
+                "Dimensions- 4,633 mm L x 1,811 mm W x 1,429 mm H"
+            ],
+            "imgUrl": "hhttps://img0.gaadicdn.com/images/car-images/520x216/BMW/BMW-3-Series/047.jpg",
+            "stock": "4",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "45.3 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "BMW 3 Series 320d Luxury Line Price in India - ₹ 45.29L,Torque is 400 N·m @ 1,750 rpm,Horsepower is 140 kW @ 4,000 rpm.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606d",
+            "productid": "",
+            "name": "Lamborghini Huracan",
+            "shortdescription": [
+                "Curb weight: 1,389 to 1,509 kg",
+                "Fuel tank capacity: 80 to 83 L",
+                "Dimensions- 4,633 mm L x 1,811 mm W x 1,429 mm H",
+                "Horsepower: 426 to 449 kW"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Lamborghini/Lamborghini-Huracan/Lamborghini-Huracan-AVIO/047.jpg",
+            "stock": "1",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "2.99 - 3.97 Cr",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Lamborghini has achieved another milestone in its 54-year-old history with the roll out of the 8,000th unit of the Huracan.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc546016",
+            "productid": "",
+            "name": "Volvo S60 Cross Country",
+            "shortdescription": [
+                "Curb weight: 1,776 kg",
+                "Fuel tank capacity: 80 to 83 L",
+                "Dimensions- 4,637 mm L x 1,866 mm W x 1,539 mm Hm H",
+                "Horsepower: 140 kW"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Volvo/Volvo-S60-Cross-Country/047.jpg",
+            "stock": "1",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "43.37 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Volvo S60 Cross Country has been launched in India at a price tag of Rs 38.6 lakhs. Earlier showcased at the 2015 Detroit Motor Show.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc5460611",
+            "productid": "",
+            "name": "Volvo S60",
+            "shortdescription": [
+                "Curb weight: 1,776 kg",
+                "Fuel tank capacity: 80 to 83 L",
+                "Dimensions- 4,637 mm L x 1,866 mm W x 1,539 mm Hm H",
+                "Horsepower: 140 kW"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Volvo/Volvo-S60/047.jpg",
+            "stock": "3",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": "32.63 - 54.96 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Volvo Cars India has launched the S60 Polestar in India at an introductory price of Rs 52.5 lakh. It shares the underpinnings with the T6 variant.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "5a76b7618c649c32dcc54606111",
+            "productid": "",
+            "name": "Audi A3",
+            "shortdescription": [
+                "Curb weight: 1,776 kg",
+                "Fuel tank capacity: 80 to 83 L",
+                "Dimensions- 4,637 mm L x 1,866 mm W x 1,539 mm Hm H",
+                "Horsepower: 140 kW"
+            ],
+            "imgUrl": "https://img0.gaadicdn.com/images/car-images/520x216/Audi/Audi-A3/047.jpg",
+            "stock": "3",
+            "status": "",
+            "category": "",
+            "subcategory": "",
+            "set": "",
+            "variants": [
+                "productid2",
+                "productid3"
+            ],
+            "purchaseprice": " 32.0 - 35.44 Lakh",
+            "sellingprice": "",
+            "mrp": "",
+            "tax": "",
+            "description": "Audi India Introduces ‘Comprehensive Service Plan’ For A3 And A6 Models. It shares the underpinnings with the T6 variant.",
+            "images": [
+                "imageurl1",
+                "imageurl2",
+                "imageurl3"
+            ],
+            "maximumquantitylimit": "",
+            "specification": [
+                {
+                    "keyname": "key1",
+                    "value": "value1"
+                },
+                {
+                    "keyname": "key2",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key3",
+                    "value": "value2"
+                },
+                {
+                    "keyname": "key4",
+                    "value": "value4"
+                }
+            ],
+            "averagerating": "",
+            "creationdate": "1999-12-31T18:30:00.000Z",
+            "modificationdate": "1999-12-31T18:30:00.000Z",
+            "reviews": [
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                },
+                {
+                    "rating": "",
+                    "review": "",
+                    "description": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z"
+                }
+            ],
+            "faq": [
+                {
+                    "question": "",
+                    "by": "",
+                    "time": "1999-12-31T18:30:00.000Z",
+                    "upvote": "",
+                    "downvote": "",
+                    "answers": [
+                        {
+                            "by": "",
+                            "time": "1999-12-31T18:30:00.000Z",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
