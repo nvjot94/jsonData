@@ -182,7 +182,7 @@
         }]
     }, {
         "_id": "5a76b7618c649c32dcc54604",
-        "productid": "Mi 3",
+        "productid": "",
         "name": "Mi 3",
         "shortdescription": ["4gb", "64gb" ,"retina-display"],
         "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61EpwRv33GL._SX569_.jpg",
@@ -242,9 +242,9 @@
         }]
     }, {
         "_id": "5a76b7618c649c32dcc54605",
-        "productid": "Iphone X",
-        "name": "lenovo 3",
-        "shortdescription": ["12gb", "32gb" ,"gorilla glass"],
+        "productid": "",
+        "name": "Iphone X",
+        "shortdescription": ["3gb", "32gb" ,"gorilla glass"],
         "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/71iV3lRd8FL._SY741_.jpg",
         "stock": "33",
         "status": "",
@@ -302,8 +302,8 @@
         }]
     }, {
         "_id": "5a76b7618c649c32dcc54606",
-        "productid": "Samsung Note 8",
-        "name": "iphone 4",
+        "productid": "",
+        "name": "Samsung Note 8",
         "shortdescription": ["4gb", "64gb" ,"8core"],
         "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/815Aay6NVhL._SY741_.jpg",
         "stock": "0",
@@ -362,9 +362,9 @@
         }]
     }, {
         "_id": "5a76b7618c649c32dcc54607",
-        "productid": "Mi 4",
-        "name": "oppo a7",
-        "shortdescription": ["2gb", "128gb" ,"4core"],
+        "productid": "",
+        "name": "Mi 4",
+        "shortdescription": ["4gb", "128gb" ,"4core"],
         "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61nzk9MGSlL._SY741_.jpg",
         "stock": "",
         "status": "",
