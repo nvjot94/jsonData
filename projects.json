@@ -1,37 +1,37 @@
 {
 	"projects" : [
 		{
-			"name": "Project 1",
-			"githubUrl": "https://www.github.com/nvjot94",
-			"liveUrl": "https://www.github.com/nvjot94",
-			"desc":"cousins are an important concept to be aware of if you’re new to the subject, so don’t be put off. In this post, we’ll unpack terms you may not know. Just hover over anything underlined to get an explanation of what it is, or feel very welcome to ask questions in the comments.",
-			"techUsed":["ReactJS","NodeJS","JavaScript"],
+			"name": "Contact Keeper",
+			"githubUrl": "https://www.github.com/nvjot94/learning",
+			"liveUrl": "https://contact-intact.herokuapp.com/login",
+			"desc":"A MERN stacl app that lets you store your contacts",
+			"techUsed":["ReactJS","NodeJS","MongoDB"],
 			"imgUrl":
-				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
+				"https://images.techhive.com/images/article/2015/12/google-phone-100632323-large.jpg"
 		},{
-			"name": "Project 1",
-			"githubUrl": "https://www.github.com/nvjot94",
-			"liveUrl": "https://www.github.com/nvjot94",
-			"desc":"cousins are an important concept to be aware of if you’re new to the subject, so don’t be put off. In this post, we’ll unpack terms you may not know. Just hover over anything underlined to get an explanation of what it is, or feel very welcome to ask questions in the comments.",
-			"techUsed":["ReactJS","NodeJS","JavaScript"],
+			"name": "GitDig",
+			"githubUrl": "https://www.github.com/nvjot94/gitdig",
+			"liveUrl": "https://master.d1p23cedawpmb0.amplifyapp.com/",
+			"desc":"A web application using Github API that lets you search and explore github user profiles",
+			"techUsed":["ReactJS","Redux","JavaScript"],
 			"imgUrl":
-				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
+				"https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png"
 		},
 		{
-			"name": "Project 2",
-			"githubUrl": "https://www.github.com/nvjot94",
-			"liveUrl": "https://www.github.com/nvjot94",
-			"desc":"Preface: This post is aimed at technically inclined marketers. However, React and its cousins are an important concept to be aware of if you’re new to the subject, so don’t be put off. In this post, we’ll unpack terms you may not know. Just hover over anything underlined to get an explanation of what it is, or feel very welcome to ask questions in the comments.",
-			"techUsed":["ReactJS","NodeJS","JavaScript"],
+			"name": "Technical logger",
+			"githubUrl": "https://github.com/nvjot94/technical-logger",
+			"liveUrl": "https://master.d10rmhoxr8s6h4.amplifyapp.com/",
+			"desc":"A web application that allows you to keep track record of technician service calls",
+			"techUsed":["ReactJS","Redux","JavaScript"],
 			"imgUrl":
-				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
+				"https://ori.hhs.gov/sites/default/files/banner_technical-assistant-help.jpg"
 		},
 		{
-			"name": "Project 3",
-			"githubUrl": "https://www.github.com/nvjot94",
-			"liveUrl": "https://www.github.com/nvjot94",
-			"desc":"Preface: This post is aimed at technically inclined marketers. However, React and its cousins are an important concept to be aware of if you’re new to the subject, so don’t be put off. In this post, we’ll unpack terms you may not know. Just hover over anything underlined to get an explanation of what it is, or feel very welcome to ask questions in the comments.",
-			"techUsed":["ReactJS","NodeJS","JavaScript"],
+			"name": "UberEats UI",
+			"githubUrl": "https://github.com/nvjot94/ubereats-UI-clone",
+			"liveUrl": "https://master.d1xngwx69n3pgw.amplifyapp.com/",
+			"desc":"An UI clone of UberEats home page ",
+			"techUsed":["ReactJS","CSS 3","JavaScript"],
 			"imgUrl":
 				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
 		}
