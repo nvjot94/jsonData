@@ -8,6 +8,14 @@
 			"techUsed":["ReactJS","NodeJS","JavaScript"],
 			"imgUrl":
 				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
+		},{
+			"name": "Project 1",
+			"githubUrl": "https://www.github.com/nvjot94",
+			"liveUrl": "https://www.github.com/nvjot94",
+			"desc":"cousins are an important concept to be aware of if you’re new to the subject, so don’t be put off. In this post, we’ll unpack terms you may not know. Just hover over anything underlined to get an explanation of what it is, or feel very welcome to ask questions in the comments.",
+			"techUsed":["ReactJS","NodeJS","JavaScript"],
+			"imgUrl":
+				"https://pocket-syndicated-images.s3.amazonaws.com/5e4428b7bfde1.jpg"
 		},
 		{
 			"name": "Project 2",
