@@ -1,6 +1,6 @@
 {
 	"projects" : [
-		{
+		{	"id":"1",
 			"name": "Contact Keeper",
 			"githubUrl": "https://www.github.com/nvjot94/learning",
 			"liveUrl": "https://contact-intact.herokuapp.com/login",
@@ -9,6 +9,7 @@
 			"imgUrl":
 				"https://images.techhive.com/images/article/2015/12/google-phone-100632323-large.jpg"
 		},{
+			"id":"2",
 			"name": "GitDig",
 			"githubUrl": "https://www.github.com/nvjot94/gitdig",
 			"liveUrl": "https://master.d1p23cedawpmb0.amplifyapp.com/",
@@ -18,6 +19,7 @@
 				"https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png"
 		},
 		{
+			"id":"3",
 			"name": "Technical logger",
 			"githubUrl": "https://github.com/nvjot94/technical-logger",
 			"liveUrl": "https://master.d10rmhoxr8s6h4.amplifyapp.com/",
@@ -27,6 +29,7 @@
 				"https://ori.hhs.gov/sites/default/files/banner_technical-assistant-help.jpg"
 		},
 		{
+			"id":"4",
 			"name": "UberEats UI",
 			"githubUrl": "https://github.com/nvjot94/ubereats-UI-clone",
 			"liveUrl": "https://master.d1xngwx69n3pgw.amplifyapp.com/",
